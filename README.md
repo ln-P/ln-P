@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ln-P
-- 👀 I’m interested in computational economics
+- 👀 I’m interested in causal inference and economics
 
 
 <!---
